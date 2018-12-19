@@ -2951,5 +2951,6 @@
     <None Include="src\index.js" />
     <None Include="src\logo.svg" />
     <None Include="src\serviceWorker.js" />
+    <None Include="src\signin.js" />
   </ItemGroup>
 </Project>
